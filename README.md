@@ -24,10 +24,5 @@ System Level Architecture--
 
 
 
-
-IAM-------->>> |******|<--->[EBS] \
-               |EC2 1 |            \
-               |******|            \
-                                   \
                
                
