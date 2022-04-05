@@ -18,6 +18,7 @@ System Level Architecture--
 11. AWS VPN
 12. Kubernetes for container-orchestration
 13. Docker as container run time
+14. EKS- Elastic Kubernetes service
 
 
 
